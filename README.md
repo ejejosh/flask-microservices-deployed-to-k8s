@@ -1,2 +1,2 @@
-# flask-microservices-deployed-to-k8s
-flask-microservices-deployed-to-k8s
+# Flask Microservices deployed to Kubernetes
+Flask Microservices deployed to Kubernetes
